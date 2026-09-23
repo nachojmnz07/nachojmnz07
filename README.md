@@ -1,5 +1,24 @@
-## Hi there 👋
+# José Ignacio Jiménez Aray. Portfolio profesional
 
+## Habilidades:
+
+- JAVA
+- SQL
+- Python
+- Backend
+- Frontend
+- HTML
+
+## Contacto:
+
+- Telefono: 624527625
+- Correo electronico: joseignacio071611@gmail.com
+
+## Proyectos:
+
+|Nombre|Tecnologías usadas|Año|Estado|Enlace|
+|:---|:---:|:---:|:---:|---:|
+||||||
 <!--
 **nachojmnz07/nachojmnz07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
