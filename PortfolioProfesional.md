@@ -16,11 +16,6 @@
 
 ## Proyectos:
 
-|Nombre|Descripcion|Tecnologías usadas|Año|Estado|Enlace|
-|:---|:---:|:---:|:---:|:---:|---:|
-|StrongerMe|Pagina Web oficial de un agimnasio|HTML, JavaScript y CSS|2026|Completado||
-
-
 <table>
   <tr>
     <th>Nombre</th>
