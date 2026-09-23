@@ -16,20 +16,40 @@
 
 ## Proyectos:
 
-|Nombre|Tecnologías usadas|Año|Estado|Enlace|
-|:---|:---:|:---:|:---:|---:|
-||||||
-<!--
-**nachojmnz07/nachojmnz07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+|Nombre|Descripcion|Tecnologías usadas|Año|Estado|Enlace|
+|:---|:---:|:---:|:---:|:---:|---:|
+|StrongerMe|Pagina Web oficial de un agimnasio|HTML, JavaScript y CSS|2026|Completado||
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <th>Nombre</th>
+    <th>Descripcion</th>
+    <th>Tecnologías</th>
+    <th>Año</th>
+    <th>Estado</th>
+    <th>Enlace</th>
+  </tr>
+  <tr>
+    <td>StrongerMe</td>
+    <td>Pagina Web oficial de un agimnasio</td>
+    <td>HTML, JavaScript y CSS</td>
+    <td>2026</td>
+    <td rowspan="3">Completado</td>
+    <td>enlace.com</td>
+  </tr>
+  <tr>
+    <td>StrongerMe</td>
+    <td>Pagina Web oficial de un agimnasio</td>
+    <td>HTML, JavaScript y CSS</td>
+    <td>2026</td>
+    <td>enlace.com</td>
+  </tr>
+  <tr>
+    <td>StrongerMe</td>
+    <td>Pagina Web oficial de un agimnasio</td>
+    <td>HTML, JavaScript y CSS</td>
+    <td>2026</td>
+    <td>enlace.com</td>
+  </tr>
+</table>
